@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 <h1>This is jim</h1>
